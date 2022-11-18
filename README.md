@@ -34,4 +34,5 @@
 ## Medium posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why can anyone become a great developer?](https://mikemtzp.medium.com/why-can-anyone-become-a-great-developer-3c0c3372dab7?source=rss-79a1b596919a------2)
 <!-- BLOG-POST-LIST:END -->
