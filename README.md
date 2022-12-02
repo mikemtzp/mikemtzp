@@ -1,7 +1,7 @@
-<div align="center" dir="auto">
+<!-- <div align="center" dir="auto">
   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&quoteCategory=programming" alt="quotes" />
 </div>
-
+ -->
 <h1 align="center">❄️Hello there, I'm Mike</h1>
 <h3 align="center">A passionate Full-stack Developer from Mexico</h3>
 
