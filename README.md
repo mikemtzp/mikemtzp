@@ -30,6 +30,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40"/>
   </a>
   &nbsp;
+  <a href="https://nextjs.org/#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40"/>
+  </a>
+  <a href="https://nextjs.org/#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40"/>
+  </a>
+  &nbsp;
   <a href="https://redux.js.org" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40"/>
   </a>
@@ -87,6 +94,13 @@
   &nbsp;
   <a href="https://materializecss.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://pics.freeicons.io/uploads/icons/png/2396380601551941189-512.png" alt="materialize" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://vercel.com/#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40"/>
+  </a>
+  <a href="https://vercel.com/#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.iconsdb.com/icons/preview/white/triangle-xxl.png" alt="vercel" width="40"/>
   </a>
   &nbsp;
   <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
