@@ -5,17 +5,6 @@
 <h1 align="center">❄️Hello there, I'm Mike</h1>
 <h3 align="center">A passionate Full-stack Developer from Mexico</h3>
 
-## About Myself
-
-- 🌱 I’m currently learning: **Next.js | AWS | Docker | Kubernetes**
-
-- 🆘 I’m looking for help with: **AI | ML**
-
-- 💬 Ask me about: **VR | AR**
-
-- ⚡ I like: **Coding👨🏻‍💻 | Calisthenics💪🏼 | Movies🎬 | Gaming🎮**
-
-
 ## Languages and Tools
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
